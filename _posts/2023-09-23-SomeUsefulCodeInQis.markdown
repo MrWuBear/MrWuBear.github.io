@@ -9,7 +9,7 @@ tags: [Qgis]
 ---
 
 # DrawLine
-```Python
+```python
 make_line(
     @geometry ,
 	with_variable(
