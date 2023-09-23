@@ -9,7 +9,7 @@ tags: [data,zotero,cssci]
 ---
 
 
-[Macbook]({{site.baseurl}}/data)
+[download]({{site.baseurl}}/data)
 
 
 
