@@ -9,7 +9,7 @@ tags: [data,zotero,cssci]
 ---
 
 
-[download]({{site.baseurl}}/data)
+[download]({{site.baseurl}}/asset/data)
 
 
 
