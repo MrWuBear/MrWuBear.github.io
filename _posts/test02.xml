@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     version="2.0">
+   <channel>
+      <title>Wiley: International Journal of Finance &amp; Economics: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/10991158?af=R</link>
+      <description>Table of Contents for International Journal of Finance &amp; Economics. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© John Wiley &amp; Sons Ltd</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Fri, 22 Sep 2023 07:06:16 +0000</pubDate>
+      <lastBuildDate>Fri, 22 Sep 2023 07:06:16 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: International Journal of Finance &amp; Economics: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>International Journal of Finance &amp; Economics</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/10991158?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: International Journal of Finance &amp; Economics: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/10991158.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/10991158?af=R</link>
+      </image>
+          <item>
+             <link>https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2887?af=R</link>
+             <pubDate>Tue, 19 Sep 2023 02:23:49 -0700</pubDate>
+             <dc:date>2023-09-19T02:23:49-07:00</dc:date>
+             <source url="https://onlinelibrary.wiley.com/journal/10991158?af=R">Wiley: International Journal of Finance &amp; Economics: Table of Contents</source>
+             <prism:coverDate/>
+             <prism:coverDisplayDate/>
+             <guid isPermaLink="false">10.1002/ijfe.2887</guid>
+             <title>Russia‐Ukraine war and G7 debt markets: Evidence from public sentiment towards economic sanctions during the conflict</title>
+             <description>International Journal of Finance &amp;amp;Economics, EarlyView. </description>
+             <dc:description>
+                Abstract
+                War‐related expectations cause changes to investors' risks and returns preferences. In this study, we examine the implications of war and sanctions sentiment for the G7 countries' debt markets during the Russia‐Ukraine war. We use behavioural indicators across social media, news media, and internet attention to reflect the public sentiment from 1st January 2022 to 20th April 2023. We apply the quantile‐on‐quantile regression (QQR) and rolling window wavelet correlation (RWWC) methods. The quantile‐on‐quantile regression results show heterogenous impact on fixed income securities. Specifically, extreme public sentiment has a negative impact on G7 fixed income securities return. The wavelets correlation result shows dynamic correlation pattern among public sentiment and fixed income securities. There is a negative relationship between public sentiment and G7 fixed income securities. The correlation is time‐varying and highly event dependent. Our additional analysis using corporate bond data indicates the robustness of our findings. Furthermore, the contagion analysis shows public sentiment significantly influence G7 fixed income securities spillover. Our findings can be of great significance while framing strategies for asset allocation, portfolio performance and risk hedging.
+             </dc:description>
+             <content:encoded>
+    &lt;h2&gt;Abstract&lt;/h2&gt;
+    &lt;p&gt;War-related expectations cause changes to investors' risks and returns preferences. In this study, we examine the implications of war and sanctions sentiment for the G7 countries' debt markets during the Russia-Ukraine war. We use behavioural indicators across social media, news media, and internet attention to reflect the public sentiment from 1st January 2022 to 20th April 2023. We apply the quantile-on-quantile regression (QQR) and rolling window wavelet correlation (RWWC) methods. The quantile-on-quantile regression results show heterogenous impact on fixed income securities. Specifically, extreme public sentiment has a negative impact on G7 fixed income securities return. The wavelets correlation result shows dynamic correlation pattern among public sentiment and fixed income securities. There is a negative relationship between public sentiment and G7 fixed income securities. The correlation is time-varying and highly event dependent. Our additional analysis using corporate bond data indicates the robustness of our findings. Furthermore, the contagion analysis shows public sentiment significantly influence G7 fixed income securities spillover. Our findings can be of great significance while framing strategies for asset allocation, portfolio performance and risk hedging.&lt;/p&gt;</content:encoded>
+             <dc:creator>
+            Zunaidah Sulong, 
+            Mohammad Abdullah, 
+            Emmanuel Joel Aikins Abakah, 
+            David Adeabah, 
+            Simplice Asongu
+            </dc:creator>
+             <category>RESEARCH ARTICLE</category>
+             <dc:title>Russia‐Ukraine war and G7 debt markets: Evidence from public sentiment towards economic sanctions during the conflict</dc:title>
+             <dc:identifier>10.1002/ijfe.2887</dc:identifier>
+             <prism:publicationName>International Journal of Finance &amp; Economics</prism:publicationName>
+             <prism:doi>10.1002/ijfe.2887</prism:doi>
+             <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2887?af=R</prism:url>
+             <prism:section>RESEARCH ARTICLE</prism:section>
+          </item>
+   </channel>
+</rss>
