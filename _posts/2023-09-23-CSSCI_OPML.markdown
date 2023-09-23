@@ -9,11 +9,10 @@ tags: [data,zotero,cssci]
 ---
 
 
-[download]({{site.baseurl}}/asset/data)
-
-
-
-
+[ALL RSS]({{site.baseurl}}/asset/data/CSSCI_CNKI_RSS_LISTS_ALL.csv)
+[OPML-0]({{site.baseurl}}/asset/data/CSSCI_CNKI_RSS_LISTS_0.opml)
+[OPML-1]({{site.baseurl}}/asset/data/CSSCI_CNKI_RSS_LISTS_1.opml)
+[OPML-2]({{site.baseurl}}/asset/data/CSSCI_CNKI_RSS_LISTS_2.opml)
 
 
 
