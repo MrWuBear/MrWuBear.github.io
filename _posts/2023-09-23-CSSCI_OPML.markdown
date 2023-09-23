@@ -9,7 +9,7 @@ tags: [Holidays, Hawaii]
 ---
 
 
-![Macbook]({{site.baseurl}}/asset/img/CSSCI_CNK_RSS_LISTS_ALL.csv)
+![Macbook]({{site.baseurl}}/data)
 
 
 
