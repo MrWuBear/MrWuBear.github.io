@@ -9,7 +9,7 @@ tags: [Holidays, Hawaii]
 ---
 
 
-![Macbook]({{site.baseurl}}/data)
+[Macbook]({{site.baseurl}}/data)
 
 
 
