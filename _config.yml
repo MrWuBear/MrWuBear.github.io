@@ -10,16 +10,16 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: # add your name
-author-img: # add your photo david-freeman.jpg 
+author-img: myphoto.jpg # add your photo david-freeman.jpg 
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github:  # add your Github handle
+social-github: https://github.com/MrWuBear # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: mr.wuxiong@outlook.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
