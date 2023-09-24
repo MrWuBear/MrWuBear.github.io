@@ -28,12 +28,12 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
             "rss" :df["rss"].loc[i]
         }
         f.write(atext_+"\n")
+    #
     end_ = '''
              </outline>
         </body>
     </opml>
     '''
-    #
     f.write(end_+"\n")
 ```
 
