@@ -9,9 +9,11 @@ tags: [data,zotero,cssci]
 ---
 
 
-[Download](https://github.com/MrWuBear/CSSCI_RSS_Feeds)
+[这里面是包含所有CSSCI的RSS源的opml文件](https://github.com/MrWuBear/CSSCI_RSS_Feeds)
 
 # 自定义OPML
+如果你想自己定制的话，请下载 [CSSCI_CNKI_RSS_LISTS_ALL.csv](https://github.com/MrWuBear/CSSCI_RSS_Feeds)文件 ，并仅保留或者添加你想要的期刊的RSS源，然后运行下面代码，即可生成opml文件。
+
 ```python
 import pandas as pd
 df    = pd.read_csv(r"./CSSCI_CNKI_RSS_LISTS_ALL.csv")
@@ -36,6 +38,7 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
 ```
 
 # 所有列表 
+当然，你也可以在下面列表中挑选你感兴趣的，并一个个手动添加。
 
 | Name                 | Engname | RSS                                  |
 |----------------------|---------|--------------------------------------|
