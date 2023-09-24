@@ -9,6 +9,9 @@ tags: [Qgis]
 ---
 
 # DrawLine
+
+![Final Results]({{site.baseurl}}/assets/img/img-for-makeline-eg.jpg)
+
 ```python
 make_line(
     @geometry ,
