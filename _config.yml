@@ -19,10 +19,10 @@ social-linkedin: # add your Linkedin handle
 social-email: mr.wuxiong@outlook.com # add your Email address
 
 # Disqus
-discus-identifier: # mr-brown # add your discus identifier
+discus-identifier:  mr-brown # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics:  Google Analytics
 
 # Build Settings
 markdown: kramdown
