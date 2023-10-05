@@ -10,9 +10,7 @@ tags: [Qgis,经济地理]
 
 # DrawLine
 
-![Final Results]({{site.baseurl}}/assets/img/img-for-makeline-eg.jpg)
-
-```python
+```
 make_line(
     @geometry ,
 	with_variable(
@@ -29,8 +27,11 @@ make_line(
 )
 ```
 
+![Final Results]({{site.baseurl}}/assets/img/img-for-makeline-eg.jpg)
+
 # change
-```python
+
+```
 make_line(
 	start_point($geometry) ,
 	translate(
