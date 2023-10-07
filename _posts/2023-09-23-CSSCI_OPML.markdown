@@ -36,14 +36,6 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
     '''
     f.write(end_+"\n")
 ```
-
-# How to use
-
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://raw.githubusercontent.com/MrWuBear/mrwubear.github.io/main/assets/img/HowToUseRssFeeds.mp4" type="video/mp4">
-</videos>
-
-
 # 所有列表 
 当然，你也可以在下面列表中挑选你感兴趣的，并一个个手动添加。
 
@@ -583,7 +575,11 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
 | 中国书法                 | ZGXE    | https://navi.cnki.net/knavi/rss/ZGXE |
 | 中国史研究动态              | ZGST    | https://navi.cnki.net/knavi/rss/ZGST |
 
+# How to use
 
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://mrwubear.github.io/assets/img/HowToUseRssFeeds.mp4" type="video/mp4">
+</videos>
 
 
 
