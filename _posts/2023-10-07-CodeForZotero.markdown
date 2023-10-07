@@ -18,7 +18,7 @@ tags: [Zotero,js]
     - ```
         var feeds = ZoteroPane.getSelectedItems();
         for (let feed of feeds){
-            await feed.eraseTx({ skipEditCheck: true });
+        await feed.eraseTx({ skipEditCheck: true });
         }
     ```
         
@@ -27,7 +27,7 @@ tags: [Zotero,js]
     - ```
         var feeds = Zotero.Feeds.getAll();
         for (let feed of feeds){
-            await feed.eraseTx({ skipEditCheck: true });
+            await feed.eraseTx({ skipEditCheck: true });
         }
     ```
 
