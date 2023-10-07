@@ -1,0 +1,113 @@
+---
+layout: post
+title: EconData
+date: 2023-10-07
+description:  # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [数据,爬虫]
+---
+
+# EconData
+
+[中国政府采购网](http://www.ccgp.gov.cn/ "http://www.ccgp.gov.cn/")
+- [政府采购合同](http://htgs.ccgp.gov.cn/GS8/contractpublish/search "http://htgs.ccgp.gov.cn/GS8/contractpublish/search")
+- [政府采购公告](http://search.ccgp.gov.cn/bxsearch?searchtype=2&page_index=1&start_time=&end_time=&timeType=2&searchparam=&searchchannel=0&dbselect=bidx&kw=&bidSort=0&pinMu=0&bidType=0&buyerName=&projectId=&displayZone=&zoneId=&agentName= "http://search.ccgp.gov.cn/bxsearch?searchtype=2&page_index=1&start_time=&end_time=&timeType=2&searchparam=&searchchannel=0&dbselect=bidx&kw=&bidSort=0&pinMu=0&bidType=0&buyerName=&projectId=&displayZone=&zoneId=&agentName=")
+- 其他招投标平台省略。
+
+[中国土地市场网](https://www.landchina.com/)
+- [供地结果](https://www.landchina.com/#/resultNotice)
+- [地块公示](https://www.landchina.com/#/publicDeal)
+- [出让公告](https://www.landchina.com/#/givingNotice)
+
+[国家金融监督管理总局](http://www.cbirc.gov.cn/cn/view/pages/index/index.html)
+- [金融许可证信息](https://xkz.cbirc.gov.cn/jr/)
+  - 姜付秀,蔡文婧,蔡欣妮等.银行竞争的微观效应:来自融资约束的经验证据[J].经济研究,2019,54(06):72-88.
+- [保险许可证信息](https://xkz.cbirc.gov.cn/bx/)
+- [保险中介许可证信息](https://xkz.cbirc.gov.cn/zj/)
+- [行政处罚](http://www.cbirc.gov.cn/cn/view/pages/ItemList.html?itemPId=923&itemId=931&itemUrl=zhengwuxinxi/xingzhengchufa.html&itemName=%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A)
+  - 明雷,黄远标,杨胜刚.银行业监管处罚效应研究[J].经济研究,2023,58(04):114-132.
+- [行政许可](http://www.cbirc.gov.cn/cn/view/pages/ItemList.html?itemPId=923&itemId=930&itemUrl=zhengwuxinxi/xingzhengxuke.html&itemName=%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF)
+
+[全国排污许可证管理信息平台](http://permit.mee.gov.cn/permitExt/defaults/default-index!getInformation.action)
+- [许可信息公开](http://permit.mee.gov.cn/perxxgkinfo/syssb/xkgg/xkgg!licenseInformation.action)
+- [登记信息公开](http://permit.mee.gov.cn/perxxgkinfo/syssb/xkgg/xkgg!getRegisterInfo.action)
+- [全国碳排放数据报送系统](http://permit.mee.gov.cn/china-ets/info/#/part-list)
+
+[中华人民共和国民政部](https://www.mca.gov.cn/)
+- [中国•国家地名信息库](https://dmfw.mca.gov.cn/)
+- [全国行政区划信息查询平台](http://xzqh.mca.gov.cn/map)
+- [行政区划代码](https://www.mca.gov.cn/n156/n186/index.html)
+
+[国家统计局](http://www.stats.gov.cn/)
+- [统计用区划代码和城乡划分代码](http://www.stats.gov.cn/sj/tjbz/qhdm/)
+
+[国家税务总局](https://www.chinatax.gov.cn/chinatax/index.html)
+- [办税地图](https://12366.chinatax.gov.cn/wap/pages/taxmap/tax-map.html)
+- [纳税信用A级纳税人名单公布栏](https://www.chinatax.gov.cn/chinatax/n810346/c102299/index.html)
+  - 李林木,于海峰,汪冲等.赏罚机制、税收遵从与企业绩效——基于纳税信用管理制度的研究[J].经济研究,2020,55(06):89-104.
+
+[中华英烈网](http://www.chinamartyrs.gov.cn/ "http://www.chinamartyrs.gov.cn/")
+- [烈士英名录](http://www.chinamartyrs.gov.cn/x_lsyml/ "http://www.chinamartyrs.gov.cn/x_lsyml/")
+  - 薛畅,李嫦,胡一川.战争记忆与对外经济交流[J].经济学(季刊),2023,23(01):371-388.
+
+[国家宗教事务局](https://www.sara.gov.cn/)
+- [宗教基础信息查询系统](https://www.sara.gov.cn/gjzjswj/zjjcxxcxxt/index.shtml)
+  - 张明,蓝海林,陈伟宏等.本土宗教传统与公司避税——基于我国34100座寺院和8349座宫观的实证研究[J].经济学(季刊),2021,21(04):1345-1368.
+
+[中国裁判文书网](https://wenshu.court.gov.cn/)
+
+论文
+- [知网](https://kns.cnki.net/kns/advsearch?dbcode=CJZK)
+
+图书
+- [Wikimedia Commons](commons.wikimedia.org)
+- [Library Genesis](https://libgen.is/)
+
+专利信息
+- [国家知识产权局](https://www.cnipa.gov.cn/col/col1510/)
+- [知网•专利数据总库](https://kns.cnki.net/kns/advsearch?dbcode=SCOD)
+- 其他商业平台：智慧芽等。
+
+文化等
+- [CBDB•中国历代人物传记资料库](https://projects.iq.harvard.edu/chinesecbdb/home)
+- [CBDB•中国历代进士资料库](https://jacob.csie.ntu.edu.tw/DocuSky/projects/ntu/CBDB-JinShi/)
+  - 研究科举、人力资本、儒学文化
+- 中国语言地图集
+  - 张航,范子英,杨现领.方言、文化认同与住房市场交易[J].经济学(季刊),2021,21(02):693-712.
+- [全国银行年鉴•民国二十三年～民国二十六年]()
+
+企业或单位工商注册信息
+- [国家企业信用信息公示系统](https://www.gsxt.gov.cn/index.html)
+- [信用中国](https://www.creditchina.gov.cn/)
+- [全国组织机构统一社会信用代码数据服务中心](https://www.cods.org.cn/)
+- 其他商业网站：天眼查、爱企查、企查查等
+
+公司年报
+- [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)
+- [巨潮资讯网](http://www.cninfo.com.cn/new/index)
+- [上海证券交易所](http://www.sse.com.cn/)
+- [深圳证券交易所](http://www.szse.cn/)
+- [全国中小企业股份转让系统](https://www.neeq.com.cn/)
+- [资本市场电子化信息披露平台](http://eid.csrc.gov.cn/nlpc/)
+
+api
+- [高德地图api](https://lbs.amap.com/api/webservice/summary)
+- [腾讯地图api](https://lbs.qq.com/service/webService/webServiceGuide/webServiceGeocoder)
+- [百度地图api](https://lbsyun.baidu.com/)
+- [天地图api](http://lbs.tianditu.gov.cn/])
+
+数据
+- [同花顺IFinD•金融终端](https://www.51ifind.com/)
+- [Wind•金融终端](https://www.wind.com.cn/portal/zh/WFT/index.html)
+- [东方财富通Choice•金融终端](https://choice.eastmoney.com/SchoolApply)
+- [CCER•Data](http://www.ccerdata.cn/)
+- [CSMAR](https://www.gtarsc.com/)
+- [锐思数据库](http://www.resset.cn/)
+- [EPS Data](https://www.epsnet.com.cn/)
+- [国研网](https://www.drcnet.com.cn)
+- [中经网•统计数据库](https://db.cei.cn/jsps/Home)
+
+
+
+
