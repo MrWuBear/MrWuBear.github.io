@@ -37,6 +37,13 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
     f.write(end_+"\n")
 ```
 
+# How to use
+
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="{{site.baseurl}}/asset/img/HowToUseRssFeeds.mp4" type="video/mp4">
+</videos>
+
+
 # 所有列表 
 当然，你也可以在下面列表中挑选你感兴趣的，并一个个手动添加。
 
