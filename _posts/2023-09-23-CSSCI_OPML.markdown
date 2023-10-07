@@ -40,7 +40,7 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
 # How to use
 
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="{{site.baseurl}}/asset/img/HowToUseRssFeeds.mp4" type="video/mp4">
+      <source id="mp4" src="https://github.com/MrWuBear/mrwubear.github.io/asset/img/HowToUseRssFeeds.mp4" type="video/mp4">
 </videos>
 
 
