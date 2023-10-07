@@ -11,7 +11,9 @@ tags: [Zotero,js]
 # Zotero code
 
 - **即时删除rss**
-    - `ZoteroPane.getSelectedItems()[0].eraseTx({ skipEditCheck: true })`
+    - ```
+        `ZoteroPane.getSelectedItems()[0].eraseTx({ skipEditCheck: true })`
+    ```
         
 
 - **即时删除所有rss**
