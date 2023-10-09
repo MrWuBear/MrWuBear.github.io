@@ -50,6 +50,10 @@ tags: [Zotero,js]
             var parentItemID = item.id;
             var url = item.getField("url");
             try {
+                var oldAttachmentID = item.getAttachments();
+                for (let att of oldAttachmentID){
+                    await Zotero.Items.trashTx(att); 
+                };
                 await Zotero.Attachments.importFromURL({
                     libraryID,
                     parentItemID,
@@ -57,7 +61,6 @@ tags: [Zotero,js]
                     title: "Snapshot",
                     contentType: "text/html",
                 });
-                await Zotero.Items.trashTx(oldAttachmentID);
                 Zotero.debug(`Snapshot done: ${item.getField('title')}`)
             } catch (e) {
                 Zotero.debug(e);
