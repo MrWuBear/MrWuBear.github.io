@@ -39,6 +39,12 @@ tags: [Zotero,js]
         - https://forums.zotero.org/discussion/85656/script-to-convert-old-web-snapshots-to-new-format
     - ```
         var items = Zotero.getActiveZoteroPane().getSelectedItems();
+        var itemIdLists = [];
+        for (let item of items){
+            var itemId = item.id;
+            itemIdLists.push(itemId);
+        }
+        var items = await Zotero.Items.getAsync(itemIdLists);
         for (let item of items) {
             var libraryID = item.libraryID;
             var parentItemID = item.id;
