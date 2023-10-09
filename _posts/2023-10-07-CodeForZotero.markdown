@@ -12,9 +12,9 @@ tags: [Zotero,js]
 
 - **即时删除rss**
     - ```
-        `ZoteroPane.getSelectedItems()[0].eraseTx({ skipEditCheck: true })`
+        ZoteroPane.getSelectedItems()[0].eraseTx({ skipEditCheck: true })`
     ```
-        
+
 
 - **即时删除所有rss**
     - ```
@@ -23,15 +23,16 @@ tags: [Zotero,js]
         await feed.eraseTx({ skipEditCheck: true });
         }
     ```
-        
 
-- **即使取消订阅所有RSS**
+
+- **即时取消订阅所有RSS**
     - ```
         var feeds = Zotero.Feeds.getAll();
         for (let feed of feeds){
             await feed.eraseTx({ skipEditCheck: true });
         }
     ```
+    
 
 - **选定项目更新网页快照**
     - 参考资料
