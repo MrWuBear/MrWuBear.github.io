@@ -33,5 +33,36 @@ tags: [Zotero,js]
         }
     ```
 
+- **选定项目更新网页快照**
+    - 参考资料
+        - https://gist.github.com/jryans/f2631cf3b2c500817cdf79a791209bca
+        - https://forums.zotero.org/discussion/85656/script-to-convert-old-web-snapshots-to-new-format
+    - ```
+        var items = Zotero.getActiveZoteroPane().getSelectedItems();
+        for (let item of items) {
+            var libraryID = item.libraryID;
+            var parentItemID = item.id;
+            var url = item.getField("url");
+            try {
+                await Zotero.Attachments.importFromURL({
+                    libraryID,
+                    parentItemID,
+                    url,
+                    title: "Snapshot",
+                    contentType: "text/html",
+                });
+                await Zotero.Items.trashTx(oldAttachmentID);
+                Zotero.debug(`Snapshot done: ${item.getField('title')}`)
+            } catch (e) {
+                Zotero.debug(e);
+            }
+        }
+    ```
+
+
+
+
+
+
 
 
