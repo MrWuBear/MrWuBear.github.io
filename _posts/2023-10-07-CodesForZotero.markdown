@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SomeCodeForZotero
+title: Codes For Zotero
 date: 2023-10-07
 description:  # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: zoteroImg.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Zotero,js]
 ---
