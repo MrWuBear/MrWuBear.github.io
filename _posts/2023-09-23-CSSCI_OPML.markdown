@@ -36,7 +36,12 @@ with open("./CSSCI_CNKI_RSS_LISTS.opml","a") as f:
     '''
     f.write(end_+"\n")
 ```
-# 所有列表 
+
+# 期刊导航
+[知网期刊导航](https://navi.cnki.net/knavi/)
+
+
+# RSS 所有列表 
 当然，你也可以在下面列表中挑选你感兴趣的，并一个个手动添加。
 
 | Name                 | Engname | RSS                                  |
