@@ -2,7 +2,7 @@
 layout: post
 title: 资源型城市名单
 date: 2023-10-07
-description:  # Add post description (optional)
+description: " "  # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [数据,政策]
