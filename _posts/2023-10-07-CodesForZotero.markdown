@@ -32,7 +32,16 @@ tags: [Zotero,js]
             await feed.eraseTx({ skipEditCheck: true });
         }
     ```
-    
+
+- **批量添加网页**
+    - ```
+        // Open
+        C:\Users\User Name\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+        // Edit And Save
+        {"type":"url","name":"Name","url":"URL"},
+        // Open Chrome And Export BookMarks To Html
+        // Open Zotero And Import
+    ```
 
 - **选定项目更新网页快照**
     - 参考资料
