@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 全国资源型城市名单（2013年）
+title: 资源型城市名单
 date: 2023-10-07
 description:  # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
