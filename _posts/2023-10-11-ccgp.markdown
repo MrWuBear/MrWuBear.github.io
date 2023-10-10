@@ -3,7 +3,7 @@ layout: post
 title: 政府采购网·采购公告统计
 date: 2023-10-07
 description:  # Add post description (optional)
-img: zoteroImg.png # Add image post (optional)
+img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Zotero,js]
 ---
