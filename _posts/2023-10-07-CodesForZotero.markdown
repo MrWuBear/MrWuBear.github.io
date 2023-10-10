@@ -54,9 +54,7 @@ tags: [Zotero,js]
             var url = item.getField("url");
             try {
                 var oldAttachmentID = item.getAttachments();
-                for (let att of oldAttachmentID){
-                    await Zotero.Items.trashTx(att); 
-                };
+                await Zotero.Items.trashTx(oldAttachmentID); 
             } catch (e) {
                 // Zotero.debug(e);
             }
@@ -100,10 +98,6 @@ tags: [Zotero,js]
             await ReCapture(item);
         }
     ```
-
-
-
-
 
 
 
