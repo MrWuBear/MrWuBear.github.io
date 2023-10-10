@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EconData
+title: Econ·Data
 date: 2023-10-07
 description:  # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)

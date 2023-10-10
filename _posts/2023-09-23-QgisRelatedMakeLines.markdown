@@ -1,6 +1,6 @@
 ---
 layout: post
-title: how to make line between two points
+title: Make Line Between Two Points
 date: 2023-09-23
 description:  # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
