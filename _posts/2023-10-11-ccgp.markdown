@@ -5,7 +5,7 @@ date: 2023-10-07
 description:  # Add post description (optional)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Zotero,js]
+tags: [数据,政府采购]
 ---
 
 | 年度          | 所有类型        | 终止公告     | 成交公告       | 竞争性磋商公告    | 其他公告     | 更正公告       | 中标公告       | 邀请公告    | 资格预审    | 单一来源     | 竞争性谈判    | 询价公告     | 公开招标       |
