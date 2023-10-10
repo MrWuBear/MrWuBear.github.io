@@ -59,7 +59,7 @@ tags: [Zotero,js]
                     await Zotero.Items.trashTx(att); 
                 };
             } catch (e) {
-                Zotero.debug(e);
+                // Zotero.debug(e);
             }
         }
 
@@ -76,9 +76,9 @@ tags: [Zotero,js]
                     title: "Snapshot",
                     contentType: "text/html",
                 });
-                Zotero.debug(`Snapshot done: ${item.getField('title')}`)
+                // Zotero.debug(`Snapshot done: ${item.getField('title')}`)
             } catch (e) {
-                Zotero.debug(e);
+                // Zotero.debug(e);
             }
         }
 
