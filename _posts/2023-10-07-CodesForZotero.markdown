@@ -14,7 +14,34 @@ tags: [Zotero,js]
         ZoteroPane.getSelectedItems()[0].eraseTx({ skipEditCheck: true })`
     ```
 
-
+- **删除超时**
+    - ```
+        // 获取所有feeds
+        var feeds = Zotero.Feeds.getAll();
+        // 获取现在时间
+        var nowTimeStamp = new Date();
+        for (let feed of feeds){
+            // feed最新更新时间
+            var feedLastTime = feed["lastUpdate"];
+            var feedLastTimeStamp = new Date(feedLastTime)
+            // feed下所有item
+            var s = new Zotero.Search();
+            s.libraryID = feed.libraryID;
+            var ids = await s.search();
+            var items = await Zotero.Items.getAsync(ids);
+            
+            for (let item of items){
+                // item 时间
+                var itemTimeStamp = new Date(item.dateAdded)
+                var gap = nowTimeStamp - itemTimeStamp
+                // 如果 item 距现在时间大于一天，且不是最新更新的则剔除
+                if (gap>3600*1000*24 & itemTimeStamp<feedLastTimeStamp){
+                    item.eraseTx({ skipEditCheck: true })
+                }
+            }
+        }
+    ```
+- 
 - **即时删除所有rss**
     - ```
         var feeds = ZoteroPane.getSelectedItems();
