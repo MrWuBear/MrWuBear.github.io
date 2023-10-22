@@ -76,9 +76,6 @@ tags: [Zotero,js]
     - ```
         // Delete Existed Attachments
         async function deleteAttach(item){
-            var libraryID = item.libraryID;
-            var parentItemID = item.id;
-            var url = item.getField("url");
             try {
                 var oldAttachmentID = item.getAttachments();
                 await Zotero.Items.trashTx(oldAttachmentID); 
